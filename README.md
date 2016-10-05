@@ -8,3 +8,5 @@ Adding in a new purpose
 Adding in a new Deployment
 ## How To Contribute
 More to contribute
+## Copyright
+Sandy.Git.Training 2014
