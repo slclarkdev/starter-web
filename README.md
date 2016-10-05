@@ -9,4 +9,4 @@ Adding in a new Deployment
 ## How To Contribute
 Please fork this repository and then issue Pull requests for review
 ## Copyright
-Sandy.Git.Training 2014
+Sandy.Git.Training 2014 All rights reserved
