@@ -1,15 +1,19 @@
 # humanstxt.org/
+
 # The humans responsible & technology colophon
+
 
 # TEAM
 
-    Sandy slclarkdev@gmail.com -- <twitter>
+    
+Sandy slclarkdev@gmail.com -- 
 
 # THANKS
 
-    <name>
-
-# TECHNOLOGY COLOPHON
+    
+All my students
+# TECHNOLOGY 
+COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
