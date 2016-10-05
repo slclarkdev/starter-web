@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for showing how to use Git and GitHub together.  Adding a line for rebasing example, more changes from the NewFeature branch too.
+This is a simple website project for showing how to use Git and GitHub together.  Updating an emergency fix after stash
 ## Introduction
 This is an example to show different parts of the GIT repository and various commands using a web project
 ## Purpose
